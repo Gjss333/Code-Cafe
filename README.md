@@ -3,7 +3,7 @@ Uma cafeteria especializada em cafés gourmet .
 
 Projeto de Landing Page para uma cafeteria fictícia ☕☕.
 
-<img src=".code-cafe.gif">
+<img src="code-cafe.gif">
 
 
 ## Tecnologias Usadas
